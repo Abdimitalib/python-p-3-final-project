@@ -133,7 +133,7 @@ def main():
         elif choice == '3':
             manage_appointments()
         elif choice == '4':
-            print("Goodbye!")
+            print("Thanks for using the Hospital Management System. Goodbye!")
             break
         else:
             print("Invalid choice. Please try again.")
